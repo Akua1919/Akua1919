@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Here ism my [resume](https://www.Akua1919.github.io)
+## Here ism my [resume](https://Akua1919.github.io)
 <!--
 **Akua1919/Akua1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
