@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
 
 ## Who am I?
 <p align="center">
@@ -9,8 +10,9 @@
     </samp>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
+## Programming Languages
 
+## Technologies I Use
 
 <p align="center">
   <samp>
@@ -20,8 +22,7 @@
   </samp>
 </p>
 
-## Programming Languages
-## Technologies I Use
+
 <p align="center">
   <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
