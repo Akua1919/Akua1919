@@ -4,6 +4,7 @@
 
 <h5 align="left">
   <!-- 邮箱 -->
+  [E-mail](956974516@qq.com)
   <code><a href="956974516@qq.com" title="my e-mail"><img width="22" src="images/linkedin.svg"> E-mail</a></code>
   <!-- phone -->
   
