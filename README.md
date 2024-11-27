@@ -11,11 +11,11 @@
 </p>
 
 ## Programming Languages
-<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'/>
+<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'>
 
 ## Current Works
 
-<p align="center">
+<p align="left">
   <samp>
     Before that, I designed for GitHub for 6+ years.
     <br>It was here where I grew up, developed my opinions,
