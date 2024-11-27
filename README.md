@@ -11,7 +11,7 @@
 </p>
 
 ## Programming Languages
-![](/images/python.svg)
+![](/images/python.svg =30*30)
 ## Current Works
 
 <p align="center">
