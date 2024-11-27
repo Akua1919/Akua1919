@@ -15,21 +15,13 @@
 
 ## Current Works
 
-<p align="left">
-  <samp>
-      
-  </samp>
-</p>
+
 
 <p align="center">
   <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
   </samp>
 </p>
-
-
-![alt text](https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)
-
 
 <details>
   <summary><b>:telescope: 2023 goal</b></summary>
@@ -52,7 +44,6 @@
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio" target="_blank">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 
-[![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=radical)](https://github.com/Akua1919)
 [![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=ambient_gradient)](https://github.com/Akua1919)
 
 ## Here is my [resume](https://Akua1919.github.io)
