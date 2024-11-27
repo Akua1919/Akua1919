@@ -13,7 +13,8 @@
 </p>
 
 # <center> Who am I ?
-<p align="left">
+<p align="center">
+  <h1> Who am I ? </h1>
     <samp>
     Hi! I'm Akua1919, an AI researcher specializing in CV. My areas of expertise are 3D reconstruction, 3D vision, video, AIGC, etc.
     <br>
