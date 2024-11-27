@@ -11,7 +11,7 @@
 </p>
 
 ## Programming Languages
-![](/images/python.svg =30x30)
+![](/images/python.svg#pic_center =30x30)
 ## Current Works
 
 <p align="center">
