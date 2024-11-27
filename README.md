@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <samp>
     Hi! I'm Akua1919, an AI researcher.
     I am keen on AI tasks related to animation and game.
-  </samp>
 </p>
 
 <p align="center">
