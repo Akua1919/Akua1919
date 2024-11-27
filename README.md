@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-    Hi! I'm Akua1919, an AI researcher.
-    I am keen on AI tasks related to animation and game.
+    <samp>
+    Hi! I'm Akua1919, an AI researcher specializing in CV.
+    <br>
+    Also, I am keen on AI tasks related to animations and games.
+    </samp>
 </p>
 
 <p align="center">
