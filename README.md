@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
-
+> 日复一日，必有精进
 <p align="center">
   <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
@@ -47,6 +47,7 @@
 [![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=ambient_gradient)](https://github.com/Akua1919)
 
 ## Here is my [resume](https://Akua1919.github.io)
+
 
 <!--
 **Akua1919/Akua1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
