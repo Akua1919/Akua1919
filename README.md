@@ -1,11 +1,6 @@
 ## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
 
----
-> When your heart is set on something, you get closer to your goal with each passing day.
-
-— KeQing
-
 <p align="center">
   <h1 align="center">Who am I? </h1>
     <samp>
@@ -14,7 +9,10 @@
     Also, I am keen on AI tasks related to animations and games. For example, text-to-speech, style transfer, object targeting in games.
     </samp>
 </p>
+---
+> When your heart is set on something, you get closer to your goal with each passing day.
 
+— KeQing
 ## Programming Languages
 <img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
