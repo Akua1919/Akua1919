@@ -1,5 +1,5 @@
-## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
+## Hi there 🤪
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
 
 ---
 > 日复一日，必有精进
