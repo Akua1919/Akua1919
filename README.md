@@ -11,7 +11,7 @@
 </p>
 
 ## Programming Languages
-![](/images/python.svg#pic_center =30x30)
+<img src = 'https://github.com/Akua1919/Akua1919/images/images/python.svg' width='30'/>
 ## Current Works
 
 <p align="center">
