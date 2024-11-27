@@ -11,7 +11,7 @@
 </p>
 
 ## Programming Languages
-<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'>
+<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
 ## Current Works
 
