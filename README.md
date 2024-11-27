@@ -1,5 +1,7 @@
 ## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
 <p align="center">
   <h1 align="center">Who am I? </h1>
     <samp>
