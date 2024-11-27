@@ -17,9 +17,7 @@
 
 <p align="left">
   <samp>
-    Before that, I designed for GitHub for 6+ years.
-    <br>It was here where I grew up, developed my opinions,
-    <br>and became a GitHub maxi.
+      
   </samp>
 </p>
 
@@ -54,8 +52,7 @@
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio" target="_blank">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/Akua1919/count.svg" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Here is my [resume](https://Akua1919.github.io)
 
