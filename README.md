@@ -17,8 +17,6 @@
 
 — KeQing
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
-
 ## Programming Languages
 <img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
