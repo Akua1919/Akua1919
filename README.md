@@ -4,9 +4,9 @@
 ## Who am I?
 <p align="left">
     <samp>
-    Hi! I'm Akua1919, an AI researcher specializing in CV.
+    Hi! I'm Akua1919, an AI researcher specializing in CV. My areas of expertise are 3D reconstruction, 3D vision, video, AIGC, etc.
     <br>
-    Also, I am keen on AI tasks related to animations and games.
+    Also, I am keen on AI tasks related to animations and games. For example, text-to-speech, style transfer, object targeting in games.
     </samp>
 </p>
 
@@ -52,7 +52,7 @@
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio" target="_blank">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 
-[![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=radical)](https://github.com/Akua1919)
+[![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=radical)](https://github.com/Akua1919)
 
 ## Here is my [resume](https://Akua1919.github.io)
 
