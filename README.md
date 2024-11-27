@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-    Hi! I'm currently leading the design team at <a href="https://www.optimism.io/">Optimism</a>,
-    <br>contributing to <a href="https://www.optimism.io/">the vision to scale Ethereum</a>.
+    Hi! I'm Akua1919, an AI researcher.
+    I am keen on AI tasks related to animation and game.
   </samp>
 </p>
 
@@ -24,13 +24,6 @@
 <p align="center">
   <samp>
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
 
@@ -55,6 +48,8 @@
   I want to make a little game this year.<br>I'm currently working on a small gameboy game with <a href="https://github.com/tfgrimes">@tfgrimes</a> using <a href="https://github.com/chrismaltby/gb-studio" target="_blank">GBStudio.dev</a>, which is an awesome game creator tool that makes it really easy to design a game if you're primarily focusing on the art and story (like myself). I'm hoping to print this on a cartridge when I'm done so you can actually experience it on a Gameboy!
 </details>
 
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
 ## Here is my [resume](https://Akua1919.github.io)
 
