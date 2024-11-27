@@ -2,13 +2,10 @@
 
 ## Hi there, I'm [Akua1919](https://github.com/Akua1919) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
 
-[E-mail]<956974516@qq.com>
 
 <h5 align="left">
   <!-- 邮箱 -->
-  <code><a href="956974516@qq.com" title="my e-mail"><img width="22" src="images/linkedin.svg"> E-mail</a></code>
   <!-- phone -->
-  
   <!-- other -->
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
