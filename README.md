@@ -50,7 +50,7 @@
 </details>
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/Akua1919/count.svg" />
 
 ## Here is my [resume](https://Akua1919.github.io)
 
