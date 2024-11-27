@@ -4,7 +4,6 @@
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://x.com/xisn63863951&style=social&logo=x)
 
-<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxisn63863951&style=social&logo=x">
 
 <p align="center">
     <samp>
@@ -19,7 +18,7 @@
 
 — KeQing
 
-## Programming Languages
+## Languages & Skills
 <img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
 ## Current Works
