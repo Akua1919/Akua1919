@@ -1,4 +1,4 @@
-## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="32" height="32"></picture>
+## Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
 
 ---
