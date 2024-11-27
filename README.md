@@ -1,6 +1,10 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
-
+<p align="center">
+  <samp>
+    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
+  </samp>
+</p>
 # <center> Who am I ?
 <p align="left">
     <samp>
@@ -16,13 +20,6 @@
 ## Current Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akua1919&repo=Akua1919&theme=ambient_gradient)](https://github.com/Akua1919/Akua1919)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akua1919&repo=Akua1919.github.io&theme=ambient_gradient)](https://github.com/Akua1919/Akua1919.github.io)
-
-
-<p align="center">
-  <samp>
-    <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
-  </samp>
-</p>
 
 <details>
   <summary><b>:telescope: 2023 goal</b></summary>
