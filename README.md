@@ -2,7 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
 
 ---
-> When your heart is set on something, you get closer to your goal with each passing day. 
+> When your heart is set on something, you get closer to your goal with each passing day.
+
 — KeQing
 
 <p align="center">
