@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-# <center> Who am I ?
+# Who am I ? -
 <p align="left">
     <samp>
     Hi! I'm Akua1919, an AI researcher specializing in CV. My areas of expertise are 3D reconstruction, 3D vision, video, AIGC, etc.
