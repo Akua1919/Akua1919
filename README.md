@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
 
 ## Who am I?
 <p align="center">
