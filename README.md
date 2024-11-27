@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Akua1919.Akua1919">
 
-## Hi there, I'm [Akua1919](https://github.Akua1919) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
+# Hi there, I'm [Akua1919](https://github.com/Akua1919) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
 
 
 <p align="center">
