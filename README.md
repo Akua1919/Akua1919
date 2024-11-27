@@ -1,16 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Akua1919.Akua1919">
 
 ## Hi there, I'm [Akua1919](https://github.com/Akua1919) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f92a/512.gif" alt="🤪" width="30" height="30"></picture>
-
-
-<h5 align="left">
-  <!-- 邮箱 -->
-  <!-- phone -->
-  <!-- other -->
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
 
 <p align="center">
     <samp>
