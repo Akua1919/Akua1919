@@ -53,6 +53,7 @@
 </details>
 
 [![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=radical)](https://github.com/Akua1919)
+[![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&theme=ambient_gradient)](https://github.com/Akua1919)
 
 ## Here is my [resume](https://Akua1919.github.io)
 
