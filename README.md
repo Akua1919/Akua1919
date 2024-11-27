@@ -2,9 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="Akua1919" /> </p>
 
 ---
-> 日复一日，必有精进
-
-— Mona the Octocat
+> Day after day, progress is made.
+— Ke Qing
 
 <p align="center">
   <h1 align="center">Who am I ? </h1>
