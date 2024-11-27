@@ -11,7 +11,7 @@
 </p>
 
 ## Programming Languages
-
+![](/images/python.svg)
 ## Current Works
 
 <p align="center">
