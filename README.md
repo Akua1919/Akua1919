@@ -4,7 +4,7 @@
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxisn63863951)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/xisn63863951)
-
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/xisn63863951)
 
 
 <p align="center">
