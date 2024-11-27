@@ -12,7 +12,6 @@
   </samp>
 </p>
 
-# <center> Who am I ?
 <p align="center">
   <h1 align="center">Who am I ? </h1>
     <samp>
