@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akua1919" alt="MarikIshtar007" /> </p>
 
-## <center> Who am I?
+# <center> Who am I ?
 <p align="left">
     <samp>
     Hi! I'm Akua1919, an AI researcher specializing in CV. My areas of expertise are 3D reconstruction, 3D vision, video, AIGC, etc.
