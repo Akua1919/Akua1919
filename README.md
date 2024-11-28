@@ -20,7 +20,7 @@
 — KeQing
 
 ## Languages & Skills
-<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/blender.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/pytorch.svg' width='30'>
+<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/blender.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/pytorch.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
 ## Current Works
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akua1919&repo=Akua1919&theme=ambient_gradient)](https://github.com/Akua1919/Akua1919)
