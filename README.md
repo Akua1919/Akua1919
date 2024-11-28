@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/_-E--mail-brightgreen?logo=gmail)](mailto:956974516@qq.com)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxisn63863951)](https://x.com/xisn63863951)
-[![Static Badge](https://img.shields.io/badge/_-Phone-black?logo=Apple)](tel:18018591626)
+[![Static Badge](https://img.shields.io/badge/_-Phone-black?logo=Apple)](tel:18018591626 "18018591626")
 
 <p align="center">
     <samp>
