@@ -28,7 +28,7 @@
 
 ## Others
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:2024: 2023 goal</b></summary>
 </details>
 
 <details>
