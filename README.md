@@ -33,19 +33,36 @@
           <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
           <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
       </picture>
-      2023 goal</b></summary>
+      2023 goal
+  </b></summary>
 </details>
 
 <details>
-  <summary><b>:cyclone: 2022 goal</b></summary>
+  <summary><b>
+      <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
+      </picture>
+      2022 goal
+  </b></summary>
 </details>
 
 <details>
-  <summary><b>:sparkles: 2021 goal</b></summary>
+  <summary><b>
+      <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
+      </picture>
+      2021 goal</b></summary>
 </details>
 
 <details>
-  <summary><b>:skull: 2020 goal</b></summary>
+  <summary><b>
+      <picture>
+          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
+          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
+      </picture>
+      2020 goal</b></summary>
 </details>
 
 [![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&rank_icon=github&theme=ambient_gradient)](https://github.com/Akua1919)
