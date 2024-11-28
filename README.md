@@ -28,7 +28,10 @@
 
 ## Others
 <details>
-  <summary><b>:2024: 2023 goal</b></summary>
+  <summary><b><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
+</picture> 2023 goal</b></summary>
 </details>
 
 <details>
