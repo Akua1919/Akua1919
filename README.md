@@ -16,7 +16,7 @@
 ---
 
 ## Languages & Skills
-<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/pytorch.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/Unity_2021.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/blender.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
+<img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/pytorch.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/openai.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/claude-code.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/blender.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/unity.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/flutter-logo.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/android.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
 ## Here is my [resume](https://Akua1919.github.io)
 
