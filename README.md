@@ -4,7 +4,6 @@
 
 [![Static Badge](https://img.shields.io/badge/_-E--mail-brightgreen?logo=gmail)](mailto:956974516@qq.com)
 [![Static Badge](https://img.shields.io/badge/_-Phone-black?logo=Apple "18018591626")](tel:18018591626)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxisn63863951)](https://x.com/xisn63863951)
 
 <p align="center">
     <samp>
@@ -19,10 +18,6 @@
 ## Languages & Skills
 <img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/python.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/pytorch.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/Unity_2021.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/blender.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/cpp.svg' width='30'><img src = 'https://github.com/Akua1919/Akua1919/blob/main/images/html.svg' width='30'>
 
-## Current Works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akua1919&repo=Akua1919&theme=ambient_gradient)](https://github.com/Akua1919/Akua1919)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akua1919&repo=Akua1919.github.io&theme=ambient_gradient)](https://github.com/Akua1919/Akua1919.github.io)
-
 ## Others
 <details>
   <summary><b>
@@ -33,36 +28,6 @@
       2023 goal
   </b></summary>
 </details>
-
-<details>
-  <summary><b>
-      <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">
-      </picture>
-      2022 goal
-  </b></summary>
-</details>
-
-<details>
-  <summary><b>
-      <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">
-      </picture>
-      2021 goal</b></summary>
-</details>
-
-<details>
-  <summary><b>
-      <picture>
-          <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
-          <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="20" height="20">
-      </picture>
-      2020 goal</b></summary>
-</details>
-
-[![Akua1919's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akua1919&show_icons=true&rank_icon=github&theme=ambient_gradient)](https://github.com/Akua1919)
 
 ## Here is my [resume](https://Akua1919.github.io)
 
